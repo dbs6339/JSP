@@ -1,2 +1,3 @@
 # JSP
-JSPservlet
+JSP 문법 정리
+
